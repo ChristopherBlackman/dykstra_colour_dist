@@ -3,13 +3,13 @@
 Implementation of the algorithnm over the image plane using colours as Euclidean distance.
 
 # Commands
-'''BASH
+```BASH
 # convert a image to a distance map
 python3 grap-creation -f 'PathToInputFile' 'PathToOutputFile' Modifier(Number)
 
 # run test suit
 python3 grap-creation -t Iterations(Number)
-'''
+```
 
 # other files
 - Images : under creative commons license
